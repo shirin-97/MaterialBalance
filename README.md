@@ -125,3 +125,8 @@ python -m pytest tests/ -v
 
 Push this repo to GitHub, then connect it at https://share.streamlit.io
 with the main file path set to `app.py`.
+
+
+## output of streamlit deployment 
+<img width="1600" height="748" alt="image" src="https://github.com/user-attachments/assets/5624e3e4-f38d-43fa-aa70-508bb74da961" />
+
