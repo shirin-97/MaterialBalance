@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+venv/
+.venv/
+
+# Internal build-spec / AI-instruction working document (versioned vN each
+# revision) -- useful during development, not meant for the public repo.
+# integration_matrix.md is NOT covered by this: it's a real verification
+# report referenced from README.md and worth keeping tracked.
+havlena_odeh_spec_v*.md
