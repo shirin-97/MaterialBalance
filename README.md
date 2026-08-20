@@ -1,4 +1,5 @@
 # Havlena-Odeh Reservoir Drive Mechanism Diagnostic Tool
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://materialbalance-3nmsrpvcjnthpowbh7v7z6.streamlit.app/)
 
 A Streamlit app that implements the Havlena-Odeh straight-line method to
 diagnose a reservoir's primary drive mechanism — depletion, gas cap, water
