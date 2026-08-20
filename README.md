@@ -127,6 +127,12 @@ Push this repo to GitHub, then connect it at https://share.streamlit.io
 with the main file path set to `app.py`.
 
 
-## output of streamlit deployment 
+## App Screenshots
 <img width="1600" height="748" alt="image" src="https://github.com/user-attachments/assets/5624e3e4-f38d-43fa-aa70-508bb74da961" />
+<img width="1514" height="648" alt="image" src="https://github.com/user-attachments/assets/a3c2084b-1839-4fdc-8ae5-07d8baeef8e7" />
+<img width="1527" height="659" alt="image" src="https://github.com/user-attachments/assets/2f00f4a6-bbcf-4a6d-97c6-e4b974eecdb4" />
+<img width="1546" height="626" alt="image" src="https://github.com/user-attachments/assets/082fcd83-b1d8-4fbf-8d40-990293cd04fc" />
+<img width="1505" height="402" alt="image" src="https://github.com/user-attachments/assets/bd38e6fe-466d-445a-85c5-5f34cfcaac83" />
+<img width="1553" height="691" alt="image" src="https://github.com/user-attachments/assets/f58e2fc5-9b07-494e-96d8-7fad368904aa" />
+
 
